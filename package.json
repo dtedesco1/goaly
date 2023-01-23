@@ -1,0 +1,25 @@
+{
+  "name": "goaly",
+  "version": "1.0.0",
+  "description": "A way to track goals over time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtedesco1/goaly.git"
+  },
+  "keywords": [
+    "goals",
+    "planning",
+    "tasks",
+    "tracking"
+  ],
+  "author": "Daniel Tedesco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtedesco1/goaly/issues"
+  },
+  "homepage": "https://github.com/dtedesco1/goaly#readme"
+}
